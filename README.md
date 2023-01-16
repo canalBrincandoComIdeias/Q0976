@@ -7,7 +7,7 @@ Projeto do Vídeo Q0976 Série **_Maratona Maker_** powered by **_Petrobras_**
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/my9yGWSftQ8)
 
 
-- Confira esse e outros projetos de Esp32 assistindo a Playlist [(Clique Aqui)](https://youtube.com/playlist?list=PL7CjOZ3q8fMdXZPsliWfsWQu_ReiOFuv9)
+- Confira esse e outros projetos de Pico assistindo a Playlist [(Clique Aqui)](https://youtube.com/playlist?list=PL7CjOZ3q8fMdXZPsliWfsWQu_ReiOFuv9)
 
 
 - Aprenda a programar ARDUINO com nosso [Curso de Arduino para Principiantes](https://cursodearduino.net/principiantes/) e o [Curso de Arduino 2.0](https://cursodearduino.net/). Com eles, você irá desenvolver sua própria lógica da programação e terá uma maior independencia, sem precisar copiar sketchs na internet.
